@@ -1,0 +1,8 @@
+[parametes]
+height = 10
+width = 20
+name = 'Andheri'
+
+[model.parameters]
+epochs=20
+callback="EarlyStopping"
